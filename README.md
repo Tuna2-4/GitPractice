@@ -6,4 +6,4 @@ MSSV: \[24031419]
 
 Lớp: \[DH24CT2]
 
-Thay đổi trực tiếp trên GitHub - Bài 1.6
+Thay đổi trực tiếp trên GitHub - Bài 1.
